@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Temperature
+comment0.text=\r\n\ Temperature\ controlled\ unit\ provided\ by\ Stanley's\ Storage\r\n\r\n\ @author\ \ \ Oyunomin\ Munkhkhurel\r\n\ @version\ \ 2018/01/05\r\n
+comment1.params=length\ width\ height\ loc
+comment1.target=Temperature(int,\ int,\ int,\ Location)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Temperature\r\n
+comment2.params=
+comment2.target=double\ calculatePrice()
+comment2.text=\r\n\ Calculates\ price\ for\ temperature\ controlled\ type\ of\ unit\r\n\r\n\ @return\ \ \ \ calculated\ final\ price\ for\ the\ unit\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

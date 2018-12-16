@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Humidity
+comment0.text=\r\n\ Humidity\ Controlled\ Unit\ by\ Stanley's\ Storage\r\n\r\n\ @author\ \ Oyunomin\ Munkhkhurel\r\n\ @version\ 2018/01/05\r\n
+comment1.params=length\ width\ height\ loc
+comment1.target=Humidity(int,\ int,\ int,\ Location)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ HumidityControlledUnit\r\n
+comment2.params=
+comment2.target=double\ calculatePrice()
+comment2.text=\r\n\ Calculates\ price\ for\ humidity\ controlled\ type\ of\ unit\r\n\r\n\ @return\ \ \ \ calculated\ final\ price\ for\ the\ unit\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
